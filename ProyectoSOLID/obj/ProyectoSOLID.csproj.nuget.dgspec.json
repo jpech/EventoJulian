@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\julian.pech\\Documents\\Visual Studio 2019\\Projects\\ProyectoSOLID\\ProyectoSOLID.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\julian.pech\\Documents\\Visual Studio 2019\\Projects\\ProyectoSOLID\\ProyectoSOLID.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julian.pech\\Documents\\Visual Studio 2019\\Projects\\ProyectoSOLID\\ProyectoSOLID.csproj",
+        "projectName": "ProyectoSOLID",
+        "projectPath": "C:\\Users\\julian.pech\\Documents\\Visual Studio 2019\\Projects\\ProyectoSOLID\\ProyectoSOLID.csproj",
+        "packagesPath": "C:\\Users\\julian.pech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julian.pech\\Documents\\Visual Studio 2019\\Projects\\ProyectoSOLID\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\julian.pech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "http://bot-apps-dev01/Nugets/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

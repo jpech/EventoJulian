@@ -1,0 +1,11 @@
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\bin\Debug\netcoreapp2.2\ProyectoSOLID.deps.json
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\bin\Debug\netcoreapp2.2\ProyectoSOLID.runtimeconfig.json
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\bin\Debug\netcoreapp2.2\ProyectoSOLID.runtimeconfig.dev.json
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\bin\Debug\netcoreapp2.2\ProyectoSOLID.dll
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\bin\Debug\netcoreapp2.2\ProyectoSOLID.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.AssemblyInfoInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.AssemblyInfo.cs
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.dll
+C:\Users\julian.pech\Documents\Visual Studio 2019\Projects\ProyectoSOLID\obj\Debug\netcoreapp2.2\ProyectoSOLID.pdb
