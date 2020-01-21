@@ -1,0 +1,9 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\bin\Debug\Solid.Bussines.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\bin\Debug\Solid.Bussines.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\bin\Debug\Solid.Entities.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\bin\Debug\Solid.Entities.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\obj\Debug\Solid.Bussines.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\obj\Debug\Solid.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\obj\Debug\Solid.Bussines.csproj.CopyComplete
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\obj\Debug\Solid.Bussines.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Bussines\obj\Debug\Solid.Bussines.pdb

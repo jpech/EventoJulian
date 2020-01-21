@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.6.0.0">
+  <Summary numSequencePoints="48" visitedSequencePoints="11" numBranchPoints="13" visitedBranchPoints="2" sequenceCoverage="22.92" branchCoverage="15.38" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" maxCrapScore="20" minCrapScore="1.04" visitedClasses="2" numClasses="4" visitedMethods="2" numMethods="5" />
+  <Modules>
+    <Module hash="4A-AD-E5-0D-B0-DE-B0-13-40-0E-35-6C-08-06-F5-C5-94-02-4F-A0">
+      <Summary numSequencePoints="7" visitedSequencePoints="4" numBranchPoints="2" visitedBranchPoints="1" sequenceCoverage="57.14" branchCoverage="50" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1.04" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="2" />
+      <ModulePath>C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\SolidUTest\bin\Debug\SolidUTest.dll</ModulePath>
+      <ModuleTime>2020-01-20T16:07:52.0218386Z</ModuleTime>
+      <ModuleName>SolidUTest</ModuleName>
+      <Files>
+        <File uid="1" fullPath="C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\SolidUTest\DTO\LeerArchivoTextoUTest.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="6" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="66.67" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1.04" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+          <FullName>Solid.Data.DTO.UTest.LeerArchivoTextoUTest</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="66.67" branchCoverage="100" crapScore="1.04" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="6" visitedSequencePoints="4" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="66.67" branchCoverage="100" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="1.04" minCrapScore="1.04" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.UTest.LeerArchivoTextoUTest::LeerArchivo_ArchivoNoExistente_EnviaExcepcion()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="1" ordinal="0" offset="6" sl="19" sc="9" el="19" ec="10" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="2" ordinal="1" offset="7" sl="21" sc="13" el="21" ec="50" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="3" ordinal="2" offset="13" sl="22" sc="13" el="22" ec="45" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="4" ordinal="3" offset="19" sl="25" sc="13" el="25" ec="45" bec="0" bev="0" fileid="1">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="0" uspid="5" ordinal="4" offset="32" sl="28" sc="13" el="28" ec="70" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="6" ordinal="5" offset="50" sl="29" sc="9" el="29" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="7" ordinal="0" offset="0">
+                <TrackedMethodRefs>
+                  <TrackedMethodRef uid="1" vc="1" />
+                </TrackedMethodRefs>
+              </MethodPoint>
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.UTest.LeerArchivoTextoUTest::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="8" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="1" />
+          <FullName>Solid.Data.DTO.UTest.LeerArchivoTextoUTest/&lt;&gt;c__DisplayClass0_0</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.UTest.LeerArchivoTextoUTest/&lt;&gt;c__DisplayClass0_0::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="9" ordinal="0" offset="0" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="1" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Object Solid.Data.DTO.UTest.LeerArchivoTextoUTest/&lt;&gt;c__DisplayClass0_0::&lt;LeerArchivo_ArchivoNoExistente_EnviaExcepcion&gt;b__0()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="10" ordinal="0" offset="0" sl="28" sc="65" el="28" ec="68" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="10" ordinal="0" offset="0" sl="28" sc="65" el="28" ec="68" bec="0" bev="0" fileid="1" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods>
+        <TrackedMethod uid="1" token="100663297" name="System.Void Solid.Data.DTO.UTest.LeerArchivoTextoUTest::LeerArchivo_ArchivoNoExistente_EnviaExcepcion()" strategy="MSTestTest" />
+      </TrackedMethods>
+    </Module>
+    <Module hash="C9-38-A7-BB-D2-E5-0E-13-94-BE-60-02-A7-15-C0-06-3C-D8-82-7B">
+      <Summary numSequencePoints="41" visitedSequencePoints="7" numBranchPoints="11" visitedBranchPoints="1" sequenceCoverage="17.07" branchCoverage="9.09" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" maxCrapScore="20" minCrapScore="2" visitedClasses="1" numClasses="2" visitedMethods="1" numMethods="3" />
+      <ModulePath>C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\SolidUTest\bin\Debug\Solid.Data.dll</ModulePath>
+      <ModuleTime>2020-01-20T16:07:51.681751Z</ModuleTime>
+      <ModuleName>Solid.Data</ModuleName>
+      <Files>
+        <File uid="5" fullPath="C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\DTO\Convertidor.cs" />
+        <File uid="6" fullPath="C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\DTO\LeerArchivoTexto.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="24" visitedSequencePoints="0" numBranchPoints="6" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" maxCrapScore="20" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="2" />
+          <FullName>Solid.Data.DTO.Convertidor</FullName>
+          <Methods>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="true" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>Solid.Data.Interfaces.ILector Solid.Data.DTO.Convertidor::get__lector()</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method skippedDueTo="AutoImplementedProperty" visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="true">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.Convertidor::set__lector(Solid.Data.Interfaces.ILector)</Name>
+              <FileRef uid="5" />
+              <SequencePoints />
+              <BranchPoints />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="4" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.Convertidor::.ctor(Solid.Data.Interfaces.ILector)</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="11" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="43" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="12" ordinal="1" offset="7" sl="16" sc="9" el="16" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="13" ordinal="2" offset="8" sl="17" sc="13" el="17" ec="30" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="14" ordinal="3" offset="16" sl="18" sc="9" el="18" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="11" ordinal="0" offset="0" sl="15" sc="9" el="15" ec="43" bec="0" bev="0" fileid="5" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="4" nPathComplexity="4" sequenceCoverage="0" branchCoverage="0" crapScore="20" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="20" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="4" minCyclomaticComplexity="4" maxCrapScore="20" minCrapScore="20" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Collections.Generic.List`1&lt;Solid.Entities.Evento&gt; Solid.Data.DTO.Convertidor::ConvertirDatos(System.String)</Name>
+              <FileRef uid="5" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="15" ordinal="0" offset="0" sl="21" sc="9" el="21" ec="10" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="16" ordinal="1" offset="1" sl="22" sc="13" el="22" ec="61" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="17" ordinal="2" offset="14" sl="23" sc="13" el="23" ec="55" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="18" ordinal="3" offset="20" sl="25" sc="13" el="25" ec="31" bec="2" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="19" ordinal="4" offset="33" sl="26" sc="17" el="26" ec="80" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="20" ordinal="5" offset="44" sl="28" sc="13" el="28" ec="20" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="21" ordinal="6" offset="45" sl="28" sc="35" el="28" ec="41" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="22" ordinal="7" offset="54" sl="28" sc="22" el="28" ec="31" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="23" ordinal="8" offset="63" sl="29" sc="13" el="29" ec="14" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="24" ordinal="9" offset="64" sl="30" sc="17" el="30" ec="46" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="25" ordinal="10" offset="71" sl="31" sc="17" el="31" ec="50" bec="2" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="26" ordinal="11" offset="87" sl="32" sc="17" el="32" ec="18" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="27" ordinal="12" offset="88" sl="33" sc="21" el="33" ec="63" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="28" ordinal="13" offset="116" sl="34" sc="21" el="34" ec="95" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="29" ordinal="14" offset="154" sl="35" sc="21" el="35" ec="41" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="30" ordinal="15" offset="163" sl="36" sc="17" el="36" ec="18" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="31" ordinal="16" offset="164" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="32" ordinal="17" offset="165" sl="28" sc="32" el="28" ec="34" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="33" ordinal="18" offset="191" sl="38" sc="13" el="38" ec="28" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="34" ordinal="19" offset="196" sl="39" sc="9" el="39" ec="10" bec="0" bev="0" fileid="5" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="35" ordinal="0" offset="31" sl="25" path="0" offsetend="33" fileid="5" />
+                <BranchPoint vc="0" uspid="36" ordinal="1" offset="31" sl="25" path="1" offsetend="44" fileid="5" />
+                <BranchPoint vc="0" uspid="37" ordinal="2" offset="85" sl="31" path="0" offsetend="87" fileid="5" />
+                <BranchPoint vc="0" uspid="38" ordinal="3" offset="85" sl="31" path="1" offsetend="164" fileid="5" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="15" ordinal="0" offset="0" sl="21" sc="9" el="21" ec="10" bec="0" bev="0" fileid="5" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="17" visitedSequencePoints="7" numBranchPoints="5" visitedBranchPoints="1" sequenceCoverage="41.18" branchCoverage="20" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" maxCrapScore="7.26" minCrapScore="2" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
+          <FullName>Solid.Data.DTO.LeerArchivoTexto</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="4" nPathComplexity="4" sequenceCoverage="41.18" branchCoverage="20" crapScore="7.26" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="17" visitedSequencePoints="7" numBranchPoints="5" visitedBranchPoints="1" sequenceCoverage="41.18" branchCoverage="20" maxCyclomaticComplexity="4" minCyclomaticComplexity="4" maxCrapScore="7.26" minCrapScore="7.26" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Collections.Generic.List`1&lt;System.String&gt; Solid.Data.DTO.LeerArchivoTexto::LeerArchivo(System.String)</Name>
+              <FileRef uid="6" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="41" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="42" ordinal="1" offset="1" sl="12" sc="13" el="12" ec="54" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="43" ordinal="2" offset="7" sl="14" sc="13" el="14" ec="14" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="44" ordinal="3" offset="8" sl="15" sc="24" el="15" ec="68" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="0" uspid="45" ordinal="4" offset="15" sl="16" sc="17" el="16" ec="18" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="46" ordinal="5" offset="18" sl="18" sc="21" el="18" ec="22" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="47" ordinal="6" offset="19" sl="19" sc="25" el="19" ec="58" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="48" ordinal="7" offset="26" sl="20" sc="25" el="20" ec="62" bec="2" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="49" ordinal="8" offset="39" sl="21" sc="29" el="21" ec="47" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="50" ordinal="9" offset="47" sl="22" sc="21" el="22" ec="22" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="51" ordinal="10" offset="48" sl="17" sc="21" el="17" ec="47" bec="2" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="52" ordinal="11" offset="63" sl="23" sc="17" el="23" ec="18" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="0" uspid="53" ordinal="12" offset="77" sl="24" sc="17" el="24" ec="31" bec="0" bev="0" fileid="6" />
+                <SequencePoint vc="1" uspid="54" ordinal="13" offset="82" sl="26" sc="13" el="26" ec="45" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="55" ordinal="14" offset="84" sl="27" sc="13" el="27" ec="14" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="1" uspid="56" ordinal="15" offset="85" sl="28" sc="17" el="28" ec="61" bec="0" bev="0" fileid="6">
+                  <TrackedMethodRefs>
+                    <TrackedMethodRef uid="1" vc="1" />
+                  </TrackedMethodRefs>
+                </SequencePoint>
+                <SequencePoint vc="0" uspid="57" ordinal="16" offset="98" sl="30" sc="9" el="30" ec="10" bec="0" bev="0" fileid="6" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="58" ordinal="0" offset="37" sl="20" path="0" offsetend="39" fileid="6" />
+                <BranchPoint vc="0" uspid="59" ordinal="1" offset="37" sl="20" path="1" offsetend="47" fileid="6" />
+                <BranchPoint vc="0" uspid="60" ordinal="2" offset="61" sl="17" path="0" offsetend="63" fileid="6" />
+                <BranchPoint vc="0" uspid="61" ordinal="3" offset="61" sl="17" path="1" offsetend="18" fileid="6" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="41" ordinal="0" offset="0" sl="11" sc="9" el="11" ec="10" bec="0" bev="0" fileid="6">
+                <TrackedMethodRefs>
+                  <TrackedMethodRef uid="1" vc="1" />
+                </TrackedMethodRefs>
+              </MethodPoint>
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="2" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Void Solid.Data.DTO.LeerArchivoTexto::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="62" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+      <TrackedMethods />
+    </Module>
+  </Modules>
+</CoverageSession>

@@ -1,0 +1,9 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\bin\Debug\Solid.Data.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\bin\Debug\Solid.Data.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\bin\Debug\Solid.Entities.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\bin\Debug\Solid.Entities.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\obj\Debug\Solid.Data.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\obj\Debug\Solid.Data.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\obj\Debug\Solid.Data.csproj.CopyComplete
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\obj\Debug\Solid.Data.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Data\obj\Debug\Solid.Data.pdb

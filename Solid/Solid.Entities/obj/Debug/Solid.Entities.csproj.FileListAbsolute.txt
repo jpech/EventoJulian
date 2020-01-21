@@ -1,0 +1,6 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\bin\Debug\Solid.Entities.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\bin\Debug\Solid.Entities.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\obj\Debug\Solid.Entities.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\obj\Debug\Solid.Entities.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\obj\Debug\Solid.Entities.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid.Entities\obj\Debug\Solid.Entities.pdb

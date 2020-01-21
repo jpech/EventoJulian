@@ -1,0 +1,14 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Bussines.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Data.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Entities.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Bussines.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Data.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\bin\Debug\Solid.Entities.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.csproj.CopyComplete
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Solid\Solid\obj\Debug\Solid.pdb
